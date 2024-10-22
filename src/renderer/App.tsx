@@ -1,4 +1,7 @@
+/* eslint-disable @typescript-eslint/no-unused-vars */
 import { MemoryRouter as Router, Routes, Route } from 'react-router-dom';
+// import MainRoutes from './routes';
+import "tailwindcss/tailwind.css";
 import icon from '../../assets/icon.svg';
 import './App.css';
 
